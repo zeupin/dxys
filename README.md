@@ -13,6 +13,7 @@
 * .dxys-h2  子项的副标题
 * .dxys-text 子项的普通文字
 * .dxys-icon  子项的icon
+* .dxys-btn  按钮
 
 ## 层次关系：
 
@@ -26,6 +27,9 @@
     .dxys-item
     .dxys-item
     .dxys-item
+
+工具类
+.dxys-btn
 ```
 
 ## 示例
