@@ -76,3 +76,22 @@ ul.dxys {
   margin: 0;
   padding: 0;
 }
+
+.dxys-btn,
+a.dxys-btn {
+  display: inline-block;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  line-height: 2.5rem;
+  padding: 0 1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  background: #009b95;
+  color: #fff;
+
+  &:hover {
+    text-decoration: none;
+    line-height: 2.5rem;
+    background: lighten( #009b95, 10%);
+  }
+}

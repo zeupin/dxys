@@ -23,3 +23,6 @@ ul.dxys { list-style: none; margin: 0; padding: 0; }
 .dxys-h2 { font-weight: bold; font-size: 0.9rem; line-height: 1.5rem; color: #666; margin: 0 auto; padding: 0; }
 
 .dxys-text { font-weight: normal; font-size: 0.9rem; line-height: 1.5rem; color: #666; margin: 0; padding: 0; }
+
+.dxys-btn, a.dxys-btn { display: inline-block; border-radius: 5px; font-size: 0.9rem; line-height: 2.5rem; padding: 0 1rem; margin-top: 1rem; text-decoration: none; background: #009b95; color: #fff; }
+.dxys-btn:hover, a.dxys-btn:hover { text-decoration: none; line-height: 2.5rem; background: #00cec6; }
